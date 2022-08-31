@@ -1,3 +1,5 @@
+# sh deploy-site.sh
+
 # 生成静态文件
 # npm run docs:build
 yarn docs:build
@@ -11,3 +13,6 @@ git commit -m 'deploy'
 git push -f git@gitee.com:tishenme/smallbird-treasure-site.git master:master
 cd ..
 rm -rf dist
+
+# https://gitee.com/tishenme/smallbird-treasure-site
+# https://gitee.com/tishenme/smallbird-treasure-site/pages

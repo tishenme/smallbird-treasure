@@ -2,7 +2,7 @@
 
 # 提交代码
 git add .
-git commit -m "tishen update content"
+git commit -m "tishen update vuepress version"
 
 # 需要配置好 Gitee SSH 密钥
 echo -e "\n###### Push Gitee ######\n"

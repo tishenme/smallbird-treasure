@@ -16,6 +16,5 @@
 > * [搜狗搜索](https://www.sogou.com)
 > * [谷歌搜索](https://www.google.com)
 
-> 直播网站
-> * [斗鱼直播](https://www.baidu.com)
-> * [虎牙直播](https://www.google.com)
+> 常用导航
+> * [爱达杂货铺](https://adzhp.cn/)

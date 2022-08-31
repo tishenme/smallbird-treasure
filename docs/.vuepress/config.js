@@ -69,21 +69,6 @@ module.exports = {
                         ]
                     }
                 ]
-            },
-            {
-                path: '/content-002-Seek/',
-                title: '学习探索',
-                collapsable: false,
-                children: [
-                    {
-                        path: '/content-002-Seek/title-001-Markdown/',
-                        title: 'Markdown',
-                        children: [
-                            { path: '/content-002-Seek/title-001-Markdown/record-001', title: '基本语法' },
-                            { path: '/content-002-Seek/title-001-Markdown/record-002', title: '进阶使用' }
-                        ]
-                    }
-                ]
             }
         ]
     }

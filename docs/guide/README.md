@@ -2,7 +2,7 @@
 
 ## 技术介绍
 
-使用 vuepress@1.8.2 搭建  
+使用 vuepress 搭建  
 使用 Gitee Page 免费发布
 
 ::: tip
