@@ -10,6 +10,10 @@ git commit -m 'deploy'
 
 # 提交代码
 
+# SSH 创建
+# cd ~
+# ssh-keygen -t rsa -C "tishenme@163.com"
+
 # 需要配置好 Gitee SSH 密钥
 echo -e "\n###### Push Gitee ######\n"
 git push -f git@gitee.com:tishenme/smallbird-treasure.git master:master

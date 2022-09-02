@@ -2,7 +2,11 @@
 
 # 提交代码
 git add .
-git commit -m "tishen update content about software info"
+git commit -m "tishen update content about modify scripts"
+
+# SSH 创建
+# cd ~
+# ssh-keygen -t rsa -C "tishenme@163.com"
 
 # 需要配置好 Gitee SSH 密钥
 echo -e "\n###### Push Gitee ######\n"
