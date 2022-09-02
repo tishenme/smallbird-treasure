@@ -6,33 +6,27 @@
 
 - ## 系统工具
 
-  - **360安全卫士 国内版**
-    > [官网地址](https://weishi.360.cn)  
-    > 防护 杀毒 各种小功能 于一体 十分方便  
-    > 如果你会设置 基本看不到广告  
-
-  - **360安全卫士 国际版**
-    > [官网地址](https://www.360totalsecurity.com)  
-    > 防护 杀毒 各种小功能 于一体 十分方便  
-    > 不想看到广告 需要更多功能 需要你付费 248RMB/3年/3设备  
-
-  - **Wise Care 365**
-    > [官网地址](https://www.wisecleaner.com.cn)
-    > [下载渠道](https://www.423down.com/3471.html)  
-    > 世界上最快的系统优化软件  
+  - **360安全卫士 极速版**
+    > [官网地址](https://weishi.360.cn/jisu/?source=homepage/)  
+    > 安全防护 推荐极速版 无广告无弹窗  
 
   - **火绒**
     > [官网地址](https://www.huorong.cn)  
-    > 小巧 安静 适合低配置电脑 安全性还可以  
+    > 小巧安静  
+
+  - **联想电脑管家**
+    > [官网地址](https://guanjia.lenovo.com.cn/)  
+    > 基于火绒 更多功能  
+
+  - **Wise Care 365**
+    > [官网地址](https://www.wisecleaner.com.cn)  
+    > [下载渠道](https://www.423down.com/3471.html)  
+    > 世界上最快的系统优化软件  
 
   - **CCleaner**
-    > [官网地址](https://www.ccleaner.com)
+    > [官网地址](https://www.ccleaner.com)  
     > [下载渠道](https://www.423down.com/716.html)  
     > 系统优化和隐私保护工具  
-
-  - **Dism++**
-    > [官网地址](https://www.chuyu.me/zh-Hans/index.html)  
-    > Window 的强大优化工具 强烈建议安装  
 
 - ## 硬件工具
 

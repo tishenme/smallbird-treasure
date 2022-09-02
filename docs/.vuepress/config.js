@@ -11,7 +11,8 @@ module.exports = {
         ['link', { rel: 'apple-touch-icon', href: '/icons/apple-touch-icon-128x128.png' }],
         ['link', { rel: 'mask-icon', href: '/icons/safari-pinned-tab.svg', color: '#3eaf7c' }],
         ['meta', { name: 'msapplication-TileImage', content: '/icons/android-chrome-128x128.png' }],
-        ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
+        ['meta', { name: 'msapplication-TileColor', content: '#000000' }],
+        ['meta', { name: 'cache-control', content: 'no-cache' }]
     ],
     markdown: {
         lineNumbers: true
