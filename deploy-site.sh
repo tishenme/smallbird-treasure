@@ -1,20 +1,5 @@
 # sh deploy-site.sh
 
-# 依赖安装
-# yarn cache clean
-# yarn --update-checksums
-# yarn install
-
-# 依赖添加
-# yarn add -D vuepress@1.9.2
-# yarn add -D @vuepress/plugin-pwa@1.9.2
-# yarn add -D @vuepress/plugin-back-to-top@1.9.2
-
-# 依赖升级
-# yarn upgrade vuepress --latest
-# yarn upgrade @vuepress/plugin-pwa --latest
-# yarn upgrade @vuepress/plugin-back-to-top --latest
-
 # 生成静态文件
 yarn docs:build
 

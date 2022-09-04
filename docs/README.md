@@ -9,12 +9,12 @@
 不忘初心 真的很难
 :::
 
-## 实用链接
+## 常用链接
 
 > 搜索网站
+> * [谷歌搜索](https://www.google.com)
 > * [百度搜索](https://www.baidu.com)
 > * [搜狗搜索](https://www.sogou.com)
-> * [谷歌搜索](https://www.google.com)
 
 > 常用导航
 > * [爱达杂货铺](https://adzhp.cn/)
