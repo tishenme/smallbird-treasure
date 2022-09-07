@@ -55,69 +55,79 @@
       全球 No.1 的硬件识别 诊断神器
 
     - **图吧工具箱**
-      > [官网地址](https://www.tbtool.cn)  
+      > [官网地址](http://www.tbtool.cn/index.html)  
       最纯净的硬件工具箱
+
+    - **Legion Accessory Central**
+      > [官网地址](https://pcsupport.lenovo.com/us/en/downloads/legionaccessorycentral)  
+      Lenovo Legion 鼠标键盘管理软件
 
     - **Samsung Magician**
       > [官网地址](https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/magician/)  
+      [下载渠道](https://semiconductor.samsung.com/consumer-storage/support/tools/)  
       三星固态硬盘管理工具
 
-    - **Lenovo Legion M600**
-      > [官网地址](https://support.lenovo.com/sg/zc/accessories/legion_m600)  
-      Lenovo Legion M600 鼠标管理软件
+    - **WDC Dashboard**
+      > [官网地址](https://support-en.wd.com/app/products/product-detailweb/p/1457#WD_downloads)  
+      [下载渠道](https://wddashboarddownloads.wdc.com/wdDashboard/DashboardSetup.exe)  
+      西数固态硬盘管理工具
 
 - ## 实用工具
 
-    - **QQ 拼音输入法**
-      > [官网地址](http://qq.pinyin.cn)  
-      > 比搜狗好的太多 主要没广告
-
-    - **360压缩**
-      > [官网地址](https://yasuo.360.cn)  
-      > 压缩格式多 免费无广告
-
-    - **TrafficMonitor**
-      > [官网地址](https://github.com/zhongyang219/TrafficMonitor)  
-      > 网速监控悬浮窗软件 可以显示当前网速 CPU及内存利用率
-
-    - **Snipaste**
-      > [官网地址](https://www.snipaste.com/)  
-      > Snipaste 这个名字来源于 Snip + Paste 顾名思义 这是一款「截图 + 贴图」的工具
-
-    - **Ditto**
-      > [官网地址](https://ditto-cp.sourceforge.io)  
-      > 免费开源的剪贴板增强软件
-
-    - **Everything**
-      > [官网地址](https://www.voidtools.com/zh-cn/)  
-      > 基于名称快速定位文件和文件夹
-
-    - **Listary**
-      > [官网地址](https://www.listarypro.com)  
-      > 革命性的Windows搜索工具
-
-    - **uTools**
-      > [官网地址](https://u.tools)  
-      > 你的生产力工具集  
-      > 自由集成丰富插件，快速匹配「场景功能」，用完即走
-
-    - **优效日历**
-      > [官网地址](http://www.youxiao.cn/index.php/yxcalendar/)  
-      > 优效日历不仅是一个日历 更是一款优秀的时间管理工具
-
-    - **欧路词典**
-      > [官网地址](https://www.eudic.net/v4/en/app/eudic)  
-      > 权威的英语词典软件 英语学习者必备的工具  
-      > 实在需要可以付费 全平台同步数据
+    - **Geek**
+      > [官网地址](https://geekuninstaller.com)  
+      [下载渠道](https://www.423down.com/2668.html)  
+      免费的软件卸载利器
 
     - **SwitchHosts**
       > [官网地址](https://github.com/oldj/SwitchHosts)  
-      > 快速切换不同的 hosts 设置、编辑 hosts 文件
+      快速切换不同的 hosts 设置、编辑 hosts 文件
 
-    - **Geek**
-      > [官网地址](https://geekuninstaller.com)
-      > [下载渠道](https://www.423down.com/2668.html)  
-      > 免费的软件卸载利器
+    - **TrafficMonitor**
+      > [官网地址](https://github.com/zhongyang219/TrafficMonitor)  
+      网速监控悬浮窗软件 可以显示当前网速 CPU及内存利用率
+
+    - **Snipaste**
+      > [官网地址](https://www.snipaste.com/)  
+      一款「截图 + 贴图」的工具
+
+    - **Bandicam**
+      > [官网地址](https://www.bandicam.cn/)  
+      [下载渠道](https://www.423down.com/2119.html)  
+      一款简单好用的录屏软件
+
+    - **Ditto**
+      > [官网地址](https://ditto-cp.sourceforge.io)  
+      免费开源的剪贴板增强软件
+
+    - **Everything**
+      > [官网地址](https://www.voidtools.com/zh-cn/)  
+      基于名称快速定位文件和文件夹
+
+    - **uTools**
+      > [官网地址](https://u.tools)  
+      你的生产力工具集 自由集成丰富插件
+
+    - **360压缩**
+      > [官网地址](https://yasuo.360.cn)  
+      压缩格式多 免费无广告
+
+    - **优效日历**
+      > [官网地址](http://www.youxiao.cn/index.php/yxcalendar/)  
+      优效日历不仅是一个日历 更是一款优秀的时间管理工具
+
+    - **QQ拼音输入法**
+      > [官网地址](http://qq.pinyin.cn)  
+      比搜狗好的太多 主要没广告
+
+    - **互传**
+      > [官网地址](https://es.vivo.com.cn/)  
+      零流量、极速/多平台
+
+    - **MIUI+**
+      > [官网地址](https://plus.miui.com/)  
+      [下载渠道](https://www.mi.com/service/notebook/drivers/A11S)  
+      手机电脑之间 协作无间
 
 - ## 上网冲浪
 
@@ -209,6 +219,10 @@
       > 主要为了使用 WebDAV
 
 - ## 办公软件
+
+    - **欧路词典**
+      > [官网地址](https://www.eudic.net/v4/en/app/eudic)  
+      权威的英语词典软件 英语学习者必备的工具
 
     - **Microsoft Office**
       > [官网地址](https://www.microsoft.com/zh-cn/microsoft-365)  
