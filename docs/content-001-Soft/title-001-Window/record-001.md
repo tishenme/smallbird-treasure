@@ -74,6 +74,11 @@
 
 - ## 实用工具
 
+    - **PowerToys**
+      > [官网地址](https://docs.microsoft.com/zh-cn/windows/powertoys/)  
+      [下载渠道](https://github.com/microsoft/PowerToys)  
+      自定义 Windows 的实用工具
+
     - **Geek**
       > [官网地址](https://geekuninstaller.com)  
       [下载渠道](https://www.423down.com/2668.html)  
@@ -146,56 +151,43 @@
       [下载渠道](https://www.423down.com/2469.html)  
       号称最快的浏览器 用的还行
 
+    - **360安全浏览器**
+      > [官网地址](https://browser.360.cn/se/)  
+      国内高端用户首选的浏览器
+
     - **360极速浏览器**
       > [官网地址](https://browser.360.cn/ee/)  
       国内高端用户首选的浏览器
 
     - **奔跑的奶酪**
       > [官网地址](https://www.runningcheese.com/)  
-      提供 Chrome Edge Firefox 各个平台增强绿色版
+      [官网地址](https://www.runningcheese.com/)  
+      提供 Edge Chrome Firefox 各个平台增强绿色版
 
     - **拓展推荐**
     - > [**拓展搜索**](https://chrome.google.com/webstore/category/extensions)
-      > - [Aerys - 窗口标签管理器](https://chrome.google.com/webstore/detail/aerys-tab-manager/kclbicheojedbinfjdjjolmciodoihkl)
-      > - [Bitwarden - 免费密码管理器](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb)
-      > - [CLEAN crxMouse Gestures](https://chrome.google.com/webstore/detail/clean-crxmouse-gestures/mjidkpedjlfnanainpdfnedkdlacidla)
-      > - [Don't Close Window With Last Tab](https://chrome.google.com/webstore/detail/dont-close-window-with-la/dlnpfhfhmkiebpnlllpehlmklgdggbhn)
-      > - [Font Rendering Enhancer](https://chrome.google.com/webstore/detail/font-rendering-enhancer/hmbmmdjlcdediglgfcdkhinjdelkiock)
-      > - [Header Editor](https://chrome.google.com/webstore/detail/header-editor/eningockdidmgiojffjmkdblpjocbhgh)
-      > - [IDM Integration Module](https://chrome.google.com/webstore/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek)
-      > - [Infinity 新标签页 (Pro)](https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh)
-      > - [Keyboard Shortcuts](https://chrome.google.com/webstore/detail/keyboard-shortcuts/lplcmnhgijkkmflbmhabnccgelffpnog)
-      > - [Keyboard Shortcuts to Close Other/Right Tabs](https://chrome.google.com/webstore/detail/keyboard-shortcuts-to-clo/dkoadhojigekhckndaehenfbhcgfeepl)
-      > - [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)
-      > - [RSSHub Radar](https://chrome.google.com/webstore/detail/rsshub-radar/kefjpfngnndepjbopdmoebkipbgkggaa)
-      > - [Saves](https://chrome.google.com/webstore/detail/save-in%E2%80%A6/jpblofcpgfjikaapfedldfeilmpgkedf)
-      > - [Save to Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj)
-      > - [ScrollAnywhere](https://chrome.google.com/webstore/detail/scrollanywhere/jehmdpemhgfgjblpkilmeoafmkhbckhi)
-      > - [Selection Context Search](https://chrome.google.com/webstore/detail/selection-context-search/kplgehmegmjifbhioeldcnphfkcfckjj)
-      > - [SimpleUndoClose](https://chrome.google.com/webstore/detail/simpleundoclose/emhohdghchmjepmigjojkehidlielknj)
-      > - [Tab Position Options](https://chrome.google.com/webstore/detail/tab-position-options/fjccjnfkdkdmjohojoggodkigkjkkjhl)
-      > - [Tab Session Manager](https://chrome.google.com/webstore/detail/tab-session-manager/iaiomicjabeggjcfkbimgmglanimpnae)
-      > - [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-      > - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
-      > - [xStyle](https://chrome.google.com/webstore/detail/xstyle/hncgkmhphmncjohllpoleelnibpmccpj)
-      > - [下载管理](https://github.com/yhl452493373/DownloadManager)
-      > - [二维码（生成及识别）](https://chrome.google.com/webstore/detail/qr-code-generator-and-rea/hkojjajclkgeijhcmfjcjkddfjpaimek)
-      > - [替换字体的中文部分为雅黑](https://chrome.google.com/webstore/detail/%E6%9B%BF%E6%8D%A2%E5%AD%97%E4%BD%93%E7%9A%84%E4%B8%AD%E6%96%87%E9%83%A8%E5%88%86%E4%B8%BA%E9%9B%85%E9%BB%91/enpkigfhoabjjjonanmddidnnahopmcn)
-      > - [沙拉查词-聚合词典划词翻译](https://chrome.google.com/webstore/detail/%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D-%E8%81%9A%E5%90%88%E8%AF%8D%E5%85%B8%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cdonnmffkdaoajfknoeeecmchibpmkmg)
-      > - [浮图秀](https://chrome.google.com/webstore/detail/photoshow/mgpdnhlllbpncjpgokgfogidhoegebod)
       > - [迅雷下载支持](https://chrome.google.com/webstore/detail/%E8%BF%85%E9%9B%B7%E4%B8%8B%E8%BD%BD%E6%94%AF%E6%8C%81/ncennffkjdiamlpmcbajkmaiiiddgioo)
-
-    - **油猴脚本**
-    - > [**脚本搜索**](https://greasyfork.org/zh-CN)
-      > - [Bilibili Evolved]()
-      > - [Github 增强 - 高速下载]()
-      > - [懒人专用，全网VIP视频]()
+      > - [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
+      > - [二维码（生成及识别）](https://chrome.google.com/webstore/detail/qr-code-generator-and-rea/hkojjajclkgeijhcmfjcjkddfjpaimek)
+      > - [Don't Close Window With Last Tab](https://chrome.google.com/webstore/detail/dont-close-window-with-la/dlnpfhfhmkiebpnlllpehlmklgdggbhn)
+      > - [Tab Session Manager](https://chrome.google.com/webstore/detail/tab-session-manager/iaiomicjabeggjcfkbimgmglanimpnae)
+      > - [Aerys - 窗口标签管理器](https://chrome.google.com/webstore/detail/aerys-tab-manager/kclbicheojedbinfjdjjolmciodoihkl)
+      > - [Chrome清理大师](https://chrome.google.com/webstore/detail/clean-master-the-best-chr/eagiakjmjnblliacokhcalebgnhellfi)
+      > - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+      > - [AdGuard 广告拦截器](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg)
+      > - [Bitwarden - 免费密码管理器](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb)
+      > - [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+      > - [浮图秀](https://chrome.google.com/webstore/detail/photoshow/mgpdnhlllbpncjpgokgfogidhoegebod)
+      > - [沙拉查词-聚合词典划词翻译](https://chrome.google.com/webstore/detail/%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D-%E8%81%9A%E5%90%88%E8%AF%8D%E5%85%B8%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cdonnmffkdaoajfknoeeecmchibpmkmg)
+      > - [京价保 - 京东价保助手](https://chrome.google.com/webstore/detail/%E4%BA%AC%E4%BB%B7%E4%BF%9D-%E4%BA%AC%E4%B8%9C%E4%BB%B7%E4%BF%9D%E5%8A%A9%E6%89%8B/gfgkebiommjpiaomalcbfefimhhanlfd)
+      > - [喵喵折+](https://chrome.google.com/webstore/detail/%E5%96%B5%E5%96%B5%E6%8A%98%20/ekbmhggedfdlajiikminikhcjffbleac)
+      > - [稀土掘金](https://chrome.google.com/webstore/detail/%E7%A8%80%E5%9C%9F%E6%8E%98%E9%87%91/lecdifefmmfjnjjinhaennhdlmcaeeeb)
+      > - [哔哩哔哩助手：bilibili.com 综合辅助扩展](https://chrome.google.com/webstore/detail/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%8A%A9%E6%89%8B%EF%BC%9Abilibilicom-%E7%BB%BC%E5%90%88%E8%BE%85%E5%8A%A9%E6%89%A9%E5%B1%95/kpbnombpnpcffllnianjibmpadjolanh)
 
 - ## 下载工具
 
     - **迅雷**
       > [官网地址](https://dl.xunlei.com)  
-      [下载渠道](https://www.423down.com/10289.html)  
       更快 但不止于快
 
     - **Motrix**
@@ -243,14 +235,22 @@
       [下载渠道](https://www.423down.com/9212.html)  
       全功能的思维导图和头脑风暴软件
 
-    - **为知笔记**
-      > [官网地址](https://www.wiz.cn/zh-cn)  
-      大脑是用来思考的 记录的事情交给我们
-
     - **亿图图示**
       > [官网地址](https://www.edrawsoft.cn/)  
       [下载渠道](https://www.423down.com/8077.html)  
       260余种办公绘图类型 流程图 架构图 工业设计 图文混排 一软搞定
+
+    - **为知笔记**
+      > [官网地址](https://www.wiz.cn/zh-cn/wiznew.html)  
+      大脑是用来思考的 记录的事情交给我们
+
+    - **FlowUs 息流**
+      > [官网地址](https://flowus.cn/product)  
+      新一代知识管理与协作平台
+
+    - **VNote**
+      > [官网地址](https://github.com/vnotex/vnote)  
+      一个舒适的笔记平台
 
 - ## 通讯协作
 
@@ -261,6 +261,15 @@
     - **微信**
       > [官网地址](https://weixin.qq.com)  
       微信 是一个生活方式
+
+    - **Zoom**
+      > [官网地址](https://www.zoom.us/)  
+      [下载渠道](https://www.zoom.us/download#client_4meeting)  
+      视频会议、云电话、网络研讨会
+
+    - **腾讯会议**
+      > [官网地址](https://meeting.tencent.com/)  
+      腾讯会议,会开会
 
     - **网易邮箱大师**
       > [官网地址](https://mail.163.com/dashi/index.html)  
@@ -273,18 +282,22 @@
       [下载渠道](https://www.423down.com/4111.html)  
       一款超好用的看图软件
 
-    - **Adobe大师版**
+    - **Adobe**
       > [官网地址](https://www.adobe.com/cn/)  
-      [下载渠道](https://www.423down.com/8978.html)  
+      [下载渠道](https://www.bilibili.com/read/cv17118048/)  
       [微博大咖](https://weibo.com/vposy?profile_ftype=1&is_all=1#_0)  
       Adobe 正通过数字体验改变世界
 
+    - **Axure**
+      > [官网地址](https://www.axure.com.cn/)  
+      专业的快速原型设计工具
+
 - ## 影音娱乐
 
-    - **网易云音乐**
-      > [官网地址](https://music.163.com/#/download)  
-      千万曲库 首首CD音质
+    - **Listen1**
+      > [官网地址](https://listen1.github.io/listen1/)  
+      One for all free music in China
 
-    - **Pot-Player**
+    - **PotPlayer**
       > [官网地址](https://potplayer.org/)  
       最好用的播放器

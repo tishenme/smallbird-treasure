@@ -14,5 +14,5 @@ cd ..
 rm -rf dist
 
 # 发布地址
-# https://gitee.com/tishenme/smallbird-treasure-site
 # https://gitee.com/tishenme/smallbird-treasure-site/pages
+# https://gitee.com/tishenme/smallbird-treasure-site
