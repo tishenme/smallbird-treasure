@@ -4,30 +4,42 @@
 程序员是最会偷懒的人 你学会了么
 :::
 
-- ## 虚拟机模拟器
+- ## 容器工具
 
-    - **VMware**
-      > [官网地址](https://www.vmware.com)  
-      [下载渠道](https://www.423down.com/5928.html)  
+    - **Bluestacks**
+      > [官网地址](https://www.bluestacks.com)  
+      [下载渠道](https://www.bluestacks.com/bluestacks-5.html)  
       VMware是功能最强大的虚拟机软件
 
-    - **Xmanager Power Suite**
+    - **VMware**
+      > [官网地址](https://www.xshellcn.com)  
+      [下载渠道](https://www.423down.com/5928.html)  
+      包含 Xmanager Xshell Xftp Xlpd
+
+- ## 远程控制
+
+    - **XmanagerPowerSuite**
       > [官网地址](https://www.xshellcn.com)  
       [下载渠道](https://www.423down.com/10045.html)  
       包含 Xmanager Xshell Xftp Xlpd
+
+    - **向日葵远程控制**
+      > [官网地址](https://sunlogin.oray.com/)  
+      VMware是功能最强大的虚拟机软件
+
 
 - ## 集成开发环境
 
     - **Spring_STS**
       > [官网地址](https://spring.io/tools)  
-      定制版的Eclipse 专为Spring开发定制的
+      定制版的 Eclipse 专为 Spring 开发定制的
 
     - **Microsoft_VSCode**
       > [官网地址](https://code.visualstudio.com)  
       免费开源的现代化轻量级代码编辑器 支持几乎所有主流的开发语言
 
     - **JetBrains_All**
-      > [官网地址](https://www.jetbrains.com)
+      > [官网地址](https://www.jetbrains.com)  
       完整的开发人员工具包
 
     - **DCloud_HBuilderX**
@@ -46,6 +58,14 @@
       [下载渠道](https://www.423down.com/1689.html)  
       小巧强大的代码文本编辑器
 
-    - **PDMan**
-      > [官网地址](http://www.pdman.cn)  
+    - **PDManer**
+      > [官网地址](https://gitee.com/robergroup/pdmaner)  
+      数据库建模
+
+    - **Postman**
+      > [官网地址](https://www.postman.com/)  
+      数据库建模
+
+    - **Apifox**
+      > [官网地址](https://www.apifox.cn/)  
       数据库建模
