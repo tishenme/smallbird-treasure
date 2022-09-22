@@ -12,7 +12,7 @@
       VMware是功能最强大的虚拟机软件
 
     - **VMware**
-      > [官网地址](https://www.xshellcn.com)  
+      > [官网地址](https://customerconnect.vmware.com/cn/downloads/info/slug/desktop_end_user_computing/vmware_workstation_pro/16_0)  
       [下载渠道](https://www.423down.com/5928.html)  
       包含 Xmanager Xshell Xftp Xlpd
 

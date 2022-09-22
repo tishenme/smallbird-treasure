@@ -17,4 +17,4 @@
 > * [搜狗搜索](https://www.sogou.com)
 
 > 常用导航
-> * [爱达杂货铺](https://adzhp.cn/)
+> * [爱达杂货铺](https://adzhp.com/)

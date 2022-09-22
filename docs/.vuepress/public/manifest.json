@@ -3,12 +3,12 @@
   "short_name": "ST",
   "icons": [
     {
-      "src": "/icons/android-chrome-128x128.png",
+      "src": "icons/android-chrome-128x128.png",
       "sizes": "128x128",
       "type": "image/png"
     }
   ],
-  "start_url": "/index.html",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#3eaf7c"
