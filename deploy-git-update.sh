@@ -2,7 +2,7 @@
 
 # 提交代码
 git add .
-git commit -m "tishen update content fix un match info"
+git commit -m "tishen update content add huawei pc manager info"
 
 # SSH 创建
 # cd ~

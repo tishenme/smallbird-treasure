@@ -16,7 +16,15 @@
 
     - **联想电脑管家**
       > [官网地址](https://guanjia.lenovo.com.cn/)  
-      基于火绒 更多功能
+      联想必背 基于火绒
+
+    - **联想电脑管家**
+      > [官网地址](https://guanjia.lenovo.com.cn/)  
+      [心情·助手](https://www.xinqingzhushou.top/index.html)  
+      [Bili-又菜又爱玩的心某人](https://space.bilibili.com/28516198)  
+      [Bili-小猴学府](https://space.bilibili.com/4178865)  
+      [Bili-空降貓咪](https://space.bilibili.com/98799169)  
+      华为生态 需要就上
 
     - **CCleaner**
       > [官网地址](https://www.ccleaner.com)  
