@@ -18,7 +18,7 @@
       > [官网地址](https://guanjia.lenovo.com.cn/)  
       联想必背 基于火绒
 
-    - **联想电脑管家**
+    - **华为电脑管家**
       > [官网地址](https://guanjia.lenovo.com.cn/)  
       [心情·助手](https://www.xinqingzhushou.top/index.html)  
       [Bili-又菜又爱玩的心某人](https://space.bilibili.com/28516198)  
