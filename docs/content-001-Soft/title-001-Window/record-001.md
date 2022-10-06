@@ -82,6 +82,10 @@
 
 - ## 实用工具
 
+    - **Bing Wallpaper**
+      > [官网地址](https://www.microsoft.com/zh-cn/bing/bing-wallpaper?rtc=1#primaryR2)  
+      一次浏览一张照片来探索世界
+
     - **PowerToys**
       > [官网地址](https://docs.microsoft.com/zh-cn/windows/powertoys/)  
       [下载渠道](https://github.com/microsoft/PowerToys)  
@@ -120,6 +124,10 @@
     - **uTools**
       > [官网地址](https://u.tools)  
       你的生产力工具集 自由集成丰富插件
+
+    - **7-Zip**
+      > [官网地址](https://www.7-zip.org/)  
+      有极高压缩比的开源压缩软件
 
     - **360压缩**
       > [官网地址](https://yasuo.360.cn)  
