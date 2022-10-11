@@ -2,7 +2,7 @@
 
 # 提交代码
 git add .
-git commit -m "tishen update deploy pages to gitee and github"
+git commit -m "tishen update README.md"
 
 # SSH 创建
 # cd ~

@@ -13,7 +13,8 @@
 
 ## 静态网站
 
-- [小鸟财富-传送门](https://tishenme.gitee.io/smallbird-treasure-site)
+- [小鸟财富-传送门-Gitee](https://tishenme.gitee.io/smallbird-treasure-site)
+- [小鸟财富-传送门-Github](https://tishenme.github.io/smallbird-treasure-site)
 
 ## 仓库地址
 
