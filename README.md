@@ -18,8 +18,8 @@
 ## 仓库地址
 
 本仓库同步托管在 Gitee 和 Github 中
-- Gitee 仓库：https://gitee.com/tishenme/smallbird-treasure
-- Github 仓库：https://github.com/tishenme/smallbird-treasure
+- [Gitee 仓库](https://gitee.com/tishenme/smallbird-treasure)
+- [Github 仓库](https://github.com/tishenme/smallbird-treasure)
 
 ## 相关命令
 ```shell
