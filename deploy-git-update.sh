@@ -2,7 +2,7 @@
 
 # 提交代码
 git add .
-git commit -m "tishen update README.md"
+git commit -m "tishen update add qianji app"
 
 # SSH 创建
 # cd ~
