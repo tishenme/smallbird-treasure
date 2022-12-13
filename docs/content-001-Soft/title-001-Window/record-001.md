@@ -220,11 +220,6 @@
       > [官网地址](http://pan.baidu.com/download)  
       > 基本必须下载的网盘 主要资源多
 
-    - **微云网盘**
-      > [官网地址](https://www.weiyun.com/download.html)  
-      > 最实惠的同步云盘 普通会员120RMB/年  
-      > 这个网盘魅力在于同步助手 本地与网络实时同步
-
     - **坚果云**
       > [官网地址](https://www.jianguoyun.com/s/downloads)  
       > 帮助企业中的变革者改善工作效率和方法  
