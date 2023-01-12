@@ -14,6 +14,16 @@
       > [官网地址](https://www.huorong.cn/person5.html)  
       专业尽职 极致低调
 
+    - **CCleaner**
+      > [官网地址](https://www.ccleaner.com)  
+      [下载渠道](https://www.423down.com/716.html)  
+      系统优化和隐私保护工具
+
+    - **Wise Care 365**
+      > [官网地址](https://www.wisecleaner.com.cn)  
+      [下载渠道](https://www.423down.com/3471.html)  
+      世界上最快的系统优化软件
+
     - **联想电脑管家**
       > [官网地址](https://guanjia.lenovo.com.cn/)  
       联想必背 基于火绒
@@ -26,18 +36,17 @@
       [Bili-空降貓咪](https://space.bilibili.com/98799169)  
       华为生态 需要就上
 
-    - **CCleaner**
-      > [官网地址](https://www.ccleaner.com)  
-      [下载渠道](https://www.423down.com/716.html)  
-      系统优化和隐私保护工具
-
-    - **Wise Care 365**
-      > [官网地址](https://www.wisecleaner.com.cn)  
-      [下载渠道](https://www.423down.com/3471.html)  
-      世界上最快的系统优化软件
-
 - ## 硬件工具
 
+    - **傲梅分区助手**
+      > [官网地址](https://www.disktool.cn)  
+      [下载渠道](https://www.423down.com/5969.html)  
+      好用的硬盘管理工具 无损分区 迁移系统
+
+    - **图吧工具箱**
+      > [官网地址](http://www.tbtool.cn/index.html)  
+      最纯净的硬件工具箱
+      
     - **鲁大师**
       > [官网地址](https://www.ludashi.com/page/pc.php)  
       [下载渠道](https://www.423down.com/3732.html)  
@@ -47,12 +56,7 @@
       > [官网地址](https://weishi.360.cn/qudongdashi/index.html)  
       [下载渠道](https://www.423down.com/9157.html)  
       推荐理由 驱动精灵 驱动人生广告太多了
-
-    - **傲梅分区助手**
-      > [官网地址](https://www.disktool.cn)  
-      [下载渠道](https://www.423down.com/5969.html)  
-      好用的硬盘管理工具 无损分区 迁移系统
-
+      
     - **HWiNFO**
       > [官网地址](https://www.hwinfo.com)  
       功能很齐全的硬件规格监测工具 可以进行烤机
@@ -61,15 +65,7 @@
       > [官网地址](https://www.aida64.com)  
       [下载渠道](https://www.423down.com/887.html)  
       全球 No.1 的硬件识别 诊断神器
-
-    - **图吧工具箱**
-      > [官网地址](http://www.tbtool.cn/index.html)  
-      最纯净的硬件工具箱
-
-    - **Legion Accessory Central**
-      > [官网地址](https://pcsupport.lenovo.com/us/en/downloads/legionaccessorycentral)  
-      Lenovo Legion 鼠标键盘管理软件
-
+      
     - **Samsung Magician**
       > [官网地址](https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/magician/)  
       [下载渠道](https://semiconductor.samsung.com/consumer-storage/support/tools/)  
@@ -80,7 +76,35 @@
       [下载渠道](https://wddashboarddownloads.wdc.com/wdDashboard/DashboardSetup.exe)  
       西数固态硬盘管理工具
 
+    - **联想游戏鼠标 M600**
+      > [驱动地址](https://pcsupport.lenovo.com/us/en/downloads/legionaccessorycentral)  
+      Lenovo Legion 鼠标键盘管理软件
+
+    - **联想游戏鼠标 M7**
+      > [驱动地址](http://iotstatic.lenovo.com.cn/legionm7/index.html)  
+      Lenovo Legion 鼠标键盘管理软件
+
 - ## 实用工具
+
+    - **7-Zip**
+      > [官网地址](https://www.7-zip.org/)  
+      有极高压缩比的开源压缩软件
+
+    - **360压缩**
+      > [官网地址](https://yasuo.360.cn)  
+      压缩格式多 免费无广告
+
+    - **QQ拼音输入法**
+      > [官网地址](http://qq.pinyin.cn)  
+      比搜狗好的太多 主要没广告
+
+    - **SwitchHosts**
+      > [官网地址](https://github.com/oldj/SwitchHosts)  
+      快速切换不同的 hosts 设置、编辑 hosts 文件
+  
+    - **TrafficMonitor**
+      > [官网地址](https://github.com/zhongyang219/TrafficMonitor)  
+      网速监控悬浮窗软件 可以显示当前网速 CPU及内存利用率
 
     - **Bing Wallpaper**
       > [官网地址](https://www.microsoft.com/zh-cn/bing/bing-wallpaper?rtc=1#primaryR2)  
@@ -95,14 +119,6 @@
       > [官网地址](https://geekuninstaller.com)  
       [下载渠道](https://www.423down.com/2668.html)  
       免费的软件卸载利器
-
-    - **SwitchHosts**
-      > [官网地址](https://github.com/oldj/SwitchHosts)  
-      快速切换不同的 hosts 设置、编辑 hosts 文件
-
-    - **TrafficMonitor**
-      > [官网地址](https://github.com/zhongyang219/TrafficMonitor)  
-      网速监控悬浮窗软件 可以显示当前网速 CPU及内存利用率
 
     - **Snipaste**
       > [官网地址](https://www.snipaste.com/)  
@@ -124,22 +140,6 @@
     - **uTools**
       > [官网地址](https://u.tools)  
       你的生产力工具集 自由集成丰富插件
-
-    - **7-Zip**
-      > [官网地址](https://www.7-zip.org/)  
-      有极高压缩比的开源压缩软件
-
-    - **360压缩**
-      > [官网地址](https://yasuo.360.cn)  
-      压缩格式多 免费无广告
-
-    - **优效日历**
-      > [官网地址](http://www.youxiao.cn/index.php/yxcalendar/)  
-      优效日历不仅是一个日历 更是一款优秀的时间管理工具
-
-    - **QQ拼音输入法**
-      > [官网地址](http://qq.pinyin.cn)  
-      比搜狗好的太多 主要没广告
 
     - **互传**
       > [官网地址](https://es.vivo.com.cn/)  
@@ -165,6 +165,11 @@
       > [官网地址](https://www.google.cn/chrome/)  
       [下载渠道](https://www.423down.com/3310.html)  
       最强的浏览器 没有对手的存在
+
+    - **Brave**
+      > [官网地址](https://brave.com/zh/)  
+      [下载渠道](https://www.423down.com/3310.html)  
+      最佳在线隐私浏览器
 
     - **Firefox**
       > [官网地址](https://www.firefox.com.cn)  
@@ -277,6 +282,10 @@
       > [官网地址](https://weixin.qq.com)  
       微信 是一个生活方式
 
+    - **网易邮箱大师**
+      > [官网地址](https://mail.163.com/dashi/index.html)  
+      高效强大的全平台邮箱客户端
+
     - **Zoom**
       > [官网地址](https://www.zoom.us/)  
       [下载渠道](https://www.zoom.us/download#client_4meeting)  
@@ -286,16 +295,7 @@
       > [官网地址](https://meeting.tencent.com/)  
       腾讯会议,会开会
 
-    - **网易邮箱大师**
-      > [官网地址](https://mail.163.com/dashi/index.html)  
-      高效强大的全平台邮箱客户端
-
 - ## 设计制作
-
-    - **2345看图王**
-      > [官网地址](https://pic.2345.cc)  
-      [下载渠道](https://www.423down.com/4111.html)  
-      一款超好用的看图软件
 
     - **Adobe**
       > [官网地址](https://www.adobe.com/cn/)  
@@ -309,10 +309,16 @@
 
 - ## 影音娱乐
 
+    - **2345看图王**
+      > [官网地址](https://pic.2345.cc)  
+      [下载渠道](https://www.423down.com/4111.html)  
+      一款超好用的看图软件
+
     - **Listen1**
       > [官网地址](https://listen1.github.io/listen1/)  
       One for all free music in China
 
     - **PotPlayer**
       > [官网地址](https://potplayer.org/)  
-      最好用的播放器
+      [下载渠道](http://www.potplayercn.com/download)  
+      Win平台上最优秀的免费影音全能格式播放器
