@@ -15,20 +15,21 @@
       > [官网地址](https://customerconnect.vmware.com/cn/downloads/info/slug/desktop_end_user_computing/vmware_workstation_pro/16_0)  
       [下载渠道](https://www.423down.com/5928.html)  
       包含 Xmanager Xshell Xftp Xlpd
-
+      
 - ## 远程控制
-
-    - **XmanagerPowerSuite**
-      > [官网地址](https://www.xshellcn.com)  
-      [下载渠道](https://www.423down.com/10045.html)  
-      包含 Xmanager Xshell Xftp Xlpd
 
     - **向日葵远程控制**
       > [官网地址](https://sunlogin.oray.com/)  
       VMware是功能最强大的虚拟机软件
 
+    - **Xmanager Power Suite**
+      > [官网地址](https://www.xshell.com/zh/)  
+      [下载渠道-官方](https://www.xshell.com/zh/xmanager-power-suite-download/)  
+      [下载渠道-三方](https://www.423down.com/10045.html)  
+      [下载渠道-三方](https://www.ghxi.com/xmanagerpowersuite.html)  
+      包含 Xmanager Xshell Xftp Xlpd
 
-- ## 集成开发环境
+- ## 开发环境
 
     - **Spring_STS**
       > [官网地址](https://spring.io/tools)  
@@ -46,7 +47,7 @@
       > [官网地址](https://www.dcloud.io)  
       轻量编辑器和强大IDE的完美结合体 适合前端开发 尤其是 Vue
 
-- ## 实用工具集锦
+- ## 工具集锦
 
     - **Notepad++**
       > [官网地址](https://notepad-plus-plus.org)  
@@ -58,14 +59,18 @@
       [下载渠道](https://www.423down.com/1689.html)  
       小巧强大的代码文本编辑器
 
+    - **Navicat**
+      > [官网地址](https://www.navicat.com.cn/download/navicat-premium)  
+      Navicat Premium 是一套可创建多个连接的数据库开发工具
+
     - **PDManer**
       > [官网地址](https://gitee.com/robergroup/pdmaner)  
       数据库建模
 
     - **Postman**
       > [官网地址](https://www.postman.com/)  
-      数据库建模
+      HTTP 协议的接口调试与测试工具
 
     - **Apifox**
       > [官网地址](https://www.apifox.cn/)  
-      数据库建模
+      API 一体化协作平台

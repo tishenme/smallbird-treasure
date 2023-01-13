@@ -19,6 +19,11 @@
       [下载渠道](https://www.423down.com/716.html)  
       系统优化和隐私保护工具
 
+    - **Geek**
+      > [官网地址](https://geekuninstaller.com)  
+      [下载渠道](https://www.423down.com/2668.html)  
+      免费的软件卸载利器
+
     - **Wise Care 365**
       > [官网地址](https://www.wisecleaner.com.cn)  
       [下载渠道](https://www.423down.com/3471.html)  
@@ -114,11 +119,6 @@
       > [官网地址](https://docs.microsoft.com/zh-cn/windows/powertoys/)  
       [下载渠道](https://github.com/microsoft/PowerToys)  
       自定义 Windows 的实用工具
-
-    - **Geek**
-      > [官网地址](https://geekuninstaller.com)  
-      [下载渠道](https://www.423down.com/2668.html)  
-      免费的软件卸载利器
 
     - **Snipaste**
       > [官网地址](https://www.snipaste.com/)  
