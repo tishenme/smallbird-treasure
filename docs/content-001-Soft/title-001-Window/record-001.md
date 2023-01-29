@@ -215,9 +215,9 @@
       > [官网地址](https://dl.xunlei.com)  
       更快 但不止于快
 
-    - **Motrix**
-      > [官网地址](https://motrix.app/)  
-      支持下载 HTTP FTP BT 磁力链接等资源
+    - **BitTorrent Tracker**
+      > [官网地址](https://trackerslist.com/)  
+      全网热门 BitTorrent Tracker 列表！
 
 - ## 网盘工具
 
