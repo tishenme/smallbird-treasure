@@ -297,6 +297,11 @@
 
 - ## 设计制作
 
+    - **2345看图王**
+      > [官网地址](https://pic.2345.cc)  
+      [下载渠道](https://www.423down.com/4111.html)  
+      一款超好用的看图软件
+
     - **Adobe**
       > [官网地址](https://www.adobe.com/cn/)  
       [下载渠道](https://www.bilibili.com/read/cv17118048/)  
@@ -309,11 +314,6 @@
 
 - ## 影音娱乐
 
-    - **2345看图王**
-      > [官网地址](https://pic.2345.cc)  
-      [下载渠道](https://www.423down.com/4111.html)  
-      一款超好用的看图软件
-
     - **Listen1**
       > [官网地址](https://listen1.github.io/listen1/)  
       One for all free music in China
@@ -322,3 +322,7 @@
       > [官网地址](https://potplayer.org/)  
       [下载渠道](http://www.potplayercn.com/download)  
       Win平台上最优秀的免费影音全能格式播放器
+
+    - **WeGame**
+      > [官网地址](https://www.wegame.com.cn/)  
+      WeGame游戏商店
