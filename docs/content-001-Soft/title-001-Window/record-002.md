@@ -25,8 +25,8 @@
     - **Xmanager Power Suite**
       > [官网地址](https://www.xshell.com/zh/)  
       [下载渠道-官方](https://www.xshell.com/zh/xmanager-power-suite-download/)  
-      [下载渠道-三方](https://www.423down.com/10045.html)  
-      [下载渠道-三方](https://www.ghxi.com/xmanagerpowersuite.html)  
+      [下载渠道-三方-423DOWN](https://www.423down.com/10045.html)  
+      [下载渠道-三方-果核剥壳](https://www.ghxi.com/xmanagerpowersuite.html)  
       包含 Xmanager Xshell Xftp Xlpd
 
 - ## 开发环境

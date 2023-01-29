@@ -304,7 +304,7 @@
 
     - **Adobe**
       > [官网地址](https://www.adobe.com/cn/)  
-      [下载渠道](https://www.bilibili.com/read/cv17118048/)  
+      [哔哩主页](https://space.bilibili.com/252157636)  
       [微博大咖](https://weibo.com/vposy?profile_ftype=1&is_all=1#_0)  
       Adobe 正通过数字体验改变世界
 
