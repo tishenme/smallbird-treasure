@@ -2,7 +2,7 @@
 
 # 提交代码
 git add .
-git commit -m "tishen update design information"
+git commit -m "tishen update soft information"
 
 # SSH 创建
 # cd ~

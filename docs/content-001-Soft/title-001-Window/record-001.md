@@ -89,6 +89,11 @@
       > [驱动地址](http://iotstatic.lenovo.com.cn/legionm7/index.html)  
       Lenovo Legion 鼠标键盘管理软件
 
+    - **罗技 Logi Options+**
+      > [驱动地址](https://www.logitech.com.cn/zh-cn/software/logi-options-plus.html)  
+      > [离线安装](https://prosupport.logi.com/hc/zh-cn/articles/10991109278871)  
+      Lenovo Legion 鼠标键盘管理软件
+
 - ## 实用工具
 
     - **7-Zip**
