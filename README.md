@@ -24,6 +24,9 @@
 
 ## 相关命令
 ```shell
+
+dos2unix *.sh
+
 # 依赖安装
 yarn cache clean
 yarn --update-checksums
@@ -41,4 +44,5 @@ yarn upgrade @vuepress/plugin-back-to-top --latest
 
 # 生成静态文件
 yarn docs:build
+
 ```

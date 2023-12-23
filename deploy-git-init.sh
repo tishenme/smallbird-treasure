@@ -1,3 +1,5 @@
+#!/bin/sh
+
 # sh deploy-git-init.sh
 
 # # 删除 Git 记录

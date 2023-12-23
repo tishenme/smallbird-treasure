@@ -1,3 +1,5 @@
+#!/bin/sh
+
 # sh deploy-git-update.sh
 
 # 提交代码

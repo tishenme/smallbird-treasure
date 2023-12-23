@@ -1,3 +1,5 @@
+#!/bin/sh
+
 # sh deploy-site.sh
 
 # 生成静态文件
