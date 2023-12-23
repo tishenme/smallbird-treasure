@@ -150,11 +150,6 @@
       > [官网地址](https://es.vivo.com.cn/)  
       零流量、极速/多平台
 
-    - **MIUI+**
-      > [官网地址](https://plus.miui.com/)  
-      [下载渠道](https://www.mi.com/service/notebook/drivers/A11S)  
-      手机电脑之间 协作无间
-
     - **钱迹**
       > [官网地址](https://www.qianjiapp.com/)  
       个人财务管理 发现记账的乐趣 全平台支持
