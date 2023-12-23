@@ -12,13 +12,16 @@
 ## 常用链接
 
 > 静态网站
-> * [小鸟财富-传送门-Gitee](https://tishenme.gitee.io/smallbird-treasure-site)
-> * [小鸟财富-传送门-Github](https://tishenme.github.io/smallbird-treasure-site)
+>
+> - [小鸟财富-传送门-Gitee](https://tishenme.gitee.io/smallbird-treasure-site)
+> - [小鸟财富-传送门-Github](https://tishenme.github.io/smallbird-treasure-site)
 
 > 搜索网站
-> * [谷歌搜索](https://www.google.com)
-> * [百度搜索](https://www.baidu.com)
-> * [搜狗搜索](https://www.sogou.com)
+>
+> - [谷歌搜索](https://www.google.com)
+> - [百度搜索](https://www.baidu.com)
+> - [搜狗搜索](https://www.sogou.com)
 
 > 常用导航
-> * [爱达杂货铺](https://adzhp.com/)
+>
+> - [爱达杂货铺](https://adzhp.com/)
