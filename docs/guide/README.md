@@ -12,8 +12,9 @@
 ## 使用教程
 
 > 相关网站
-> * [vuepress github](https://github.com/vuejs/vuepress)
-> * [vuepress document](https://vuepress.vuejs.org/zh/)
+>
+> - [vuepress github](https://github.com/vuejs/vuepress)
+> - [vuepress document](https://vuepress.vuejs.org/zh/)
 
 ::: tip
 建议大家先根据官方教程做一个实例学习一下  
@@ -56,10 +57,10 @@ samllbird-treasure
 
 #### 修改项目
 
- ```
+```
 # 推荐在 Gitee 创建仓库 因为 Gitee Page 国内更加流畅
-# 需要新建好你自己的2个仓库 例如 
-# 代码仓库 xxxxxx 
+# 需要新建好你自己的2个仓库 例如
+# 代码仓库 xxxxxx
 # 部署仓库 xxxxxx-site
 # 删除之前项目的 .git 文件夹
 # 修改相关配置和脚本文件 更换为你的项目名称 部署即可
@@ -69,6 +70,6 @@ samllbird-treasure
 
 ```
 # 进入项目根目录下 空白处右键选择使用 Git Bash 工具执行下面命令即可
-# 部署命令 
+# 部署命令
 sh deploy-site.sh
 ```
