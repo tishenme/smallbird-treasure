@@ -80,6 +80,7 @@ typings/
 .dynamodb/
 
 # Custom
-.idea
 yarn.lock
+.idea
+.vscode
 docs/.vuepress/dist
