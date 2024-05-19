@@ -1,3 +1,7 @@
+---
+sidebarDepth: 0
+---
+
 # 学习探索
 
 ::: tip

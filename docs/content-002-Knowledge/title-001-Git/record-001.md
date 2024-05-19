@@ -1,5 +1,5 @@
 ---
-sidebarDepth: 0
+sidebarDepth: 1
 ---
 
 # 入坑 Git，看这一篇就够了 - 掘金

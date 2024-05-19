@@ -1,3 +1,7 @@
+---
+sidebarDepth: 0
+---
+
 # Window 平台
 
 ::: tip
