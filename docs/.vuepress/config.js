@@ -69,6 +69,24 @@ module.exports = {
                         ]
                     }
                 ]
+            },
+            {
+                path: '/content-002-Knowledge/',
+                title: '知识仓库',
+                collapsable: false,
+                children: [
+                    {
+                        path: '/content-002-Knowledge/title-001-Git/',
+                        title: 'Git',
+                        children: [
+                            {   
+                                title: '入坑 Git，看这一篇就够了',
+                                collapsable: true,
+                                path: '/content-002-Knowledge/title-001-Git/record-001.md'
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }
