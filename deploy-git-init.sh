@@ -1,4 +1,4 @@
-#!/bin/sh
+# #!/bin/sh
 
 # sh deploy-git-init.sh
 
