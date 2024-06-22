@@ -14,14 +14,14 @@ git init
 git add -A
 git commit -m 'deploy'
 
-# 需要配置好 Gitee SSH 密钥
-# https://gitee.com/tishenme/smallbird-treasure-site
-echo -e "\n###### Deploy Gitee Page ######\n"
-git push -f git@gitee.com:tishenme/smallbird-treasure-site.git master:master
+# # 需要配置好 Gitee SSH 密钥
+# # https://gitee.com/tishenme/smallbird-treasure-site
+# echo -e "\n###### Deploy Gitee Page ######\n"
+# git push -f git@gitee.com:tishenme/smallbird-treasure-site.git master:master
 
-# 发布地址 Gitee 需要到去 pages 页面刷新
-# https://gitee.com/tishenme/smallbird-treasure-site/pages
-# https://tishenme.gitee.io/smallbird-treasure-site/
+# # 发布地址 Gitee 需要到去 pages 页面刷新
+# # https://gitee.com/tishenme/smallbird-treasure-site/pages
+# # https://tishenme.gitee.io/smallbird-treasure-site/
 
 # 需要配置好 Github SSH 密钥
 # https://github.com/tishenme/smallbird-treasure-site
