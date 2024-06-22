@@ -5,7 +5,7 @@
 # 生成静态文件
 # yarn cache clean
 # yarn --update-checksums
-yarn install
+# yarn install
 yarn docs:build
 
 # 基本步骤
